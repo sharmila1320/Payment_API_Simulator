@@ -321,7 +321,7 @@ pip install -r requirements.txt
 
 ## Contributing
 
-This is an educational project. Feel free to:
+Feel free to:
 - Add more test scenarios
 - Implement webhook notifications
 - Add more payment methods
